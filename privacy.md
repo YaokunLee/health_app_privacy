@@ -4,6 +4,8 @@ Effective Date: 2023-10-22
 
 We at the University of Copenhagen ("we," "us," or "our") are committed to protecting the privacy and security of your personal information. This privacy policy applies to the Health Data Collection app and governs the collection, usage, and disclosure of health and personal information provided by users of our app.
 
+In line with our commitment to protecting your data, we adhere strictly to the data protection laws and regulations of Denmark and the European Union, as well as the specific rules and ethical guidelines set forth by the University of Copenhagen for research participant data. Our practices are designed to uphold the highest standards of data privacy and security in academic research.
+
 ## 1. Information Collection and Use
 We collect information that you provide directly to us, including personal details such as your name, email address, age, and health-related data such as steps, heart rate, sleep duration, and other indicators relevant to depression.
 The app uses this data to provide personalized health insights and recommendations. It may also be used for research purposes to improve our understanding of depression and enhance our services.
